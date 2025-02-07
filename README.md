@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 # 💫 About Me:
 🌟 Hi there, welcome to my GitHub!<br>👨‍🎓 Currently studying: Mechatronics Engineering<br>💻 Languages I code in: C++ and Java<br>🤖 Interests: Technology, especially in Artificial Intelligence and Cybersecurity<br>🏸 Fun fact: I'm a pretty good badminton player!<br><br>📚 Always learning and exploring the intersection of engineering and innovation. Let's build something awesome together! 🚀
